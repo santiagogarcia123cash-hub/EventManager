@@ -1,0 +1,13 @@
+# Archivos generados al compilar
+/build/
+/dist/
+
+# Ejecutable generado
+/instalador/
+
+# Configuración privada de NetBeans
+/nbproject/private/
+
+# Archivos temporales
+*.class
+*.log
