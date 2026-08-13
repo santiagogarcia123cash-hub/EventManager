@@ -2,8 +2,6 @@
 /build/
 /dist/
 
-# Ejecutable generado
-/instalador/
 
 # Configuración privada de NetBeans
 /nbproject/private/
